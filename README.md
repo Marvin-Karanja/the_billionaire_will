@@ -1,2 +1,18 @@
-# the_billionaire_will
-Helping a billionaire select the most deserving stewards of his assets based on a transparent, defensible framework.
+# 📊 EDA on People Dataset
+
+This project explores a dataset containing information about individuals, including:
+
+- Age
+- Financial Responsibility
+- Loyalty Score
+- Leadership Potential
+- Philanthropy Alignment
+
+We use Python and basic data analysis tools to understand relationships between these variables.
+
+## 🔧 Tools Used
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
